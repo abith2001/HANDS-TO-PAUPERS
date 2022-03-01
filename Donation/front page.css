@@ -1,0 +1,29 @@
+body{
+	margin: 0px;
+	background: #dce8c9;
+}
+img{
+	width: 100px;
+	padding: 5px;
+}
+#header{
+	background: #88b04b;
+}
+.one{
+	border-radius: 20px;
+	float: right;
+	list-style: none;
+	padding: 10px;
+	background: #dce8c9;
+	margin-right: 100px;
+	margin-top: -80px;
+}
+.two{
+	border-radius: 20px;
+	float: right;
+	list-style: none;
+	padding: 10px;
+	background: #dce8c9;
+	margin-right: 200px;
+	margin-top: -80px;
+}

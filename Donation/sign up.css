@@ -1,0 +1,40 @@
+body{
+	align-items: center;
+	background: url(1.jpg);
+	background-size: cover;
+}
+form{
+	left: 40%;
+	position: absolute;
+	text-align: center;
+}
+h1{
+	color: #dce8c9;
+}
+form input{
+	width: 300px;
+	height: 30px;
+	border-radius: 20px;
+	background: none;
+	color: white;
+}
+#h1{
+	text-decoration: none;
+}
+::-webkit-input-placeholder{
+	color: white;
+}
+#submit{
+	background-color: red;
+	text-decoration: none;
+	width: 200px;
+}
+#gender{
+	width: 300px;
+	height: 30px;
+	border-radius: 20px;
+	background: none;
+}
+button{
+	background: #88b04b;
+}
